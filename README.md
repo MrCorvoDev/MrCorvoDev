@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Frontend Developer who started his journey in 2019 and built over 50 projects. I always wanted to become a person who loves his job, and I actually did. But my journey is just starting, I keep updating my knowledge everyday and working on other aspects of my life. Sometimes I fail and it’s okay. Because failure along the way is part of future success.
+Frontend Developer with over 5 years of experience, worked on 50+ projects for various companies. I’ve collaborated with designers and cross-functional teams to deliver projects that align with business needs. My expertise includes enhancing user experience, and solving complex technical challenges. I thrive in fast-paced environments and am always eager to learn new technologies to stay ahead in the field. I might code like a machine, but I promise, I’m all human when it comes to creativity and problem-solving.
 
 ###
 
